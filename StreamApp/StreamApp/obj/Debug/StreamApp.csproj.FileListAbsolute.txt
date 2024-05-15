@@ -1,0 +1,7 @@
+C:\Users\XAHUMBA\Documents\Project\StreamApp\StreamApp\bin\Debug\StreamApp.exe.config
+C:\Users\XAHUMBA\Documents\Project\StreamApp\StreamApp\bin\Debug\StreamApp.exe
+C:\Users\XAHUMBA\Documents\Project\StreamApp\StreamApp\bin\Debug\StreamApp.pdb
+C:\Users\XAHUMBA\Documents\Project\StreamApp\StreamApp\obj\Debug\StreamApp.csproj.AssemblyReference.cache
+C:\Users\XAHUMBA\Documents\Project\StreamApp\StreamApp\obj\Debug\StreamApp.csproj.CoreCompileInputs.cache
+C:\Users\XAHUMBA\Documents\Project\StreamApp\StreamApp\obj\Debug\StreamApp.exe
+C:\Users\XAHUMBA\Documents\Project\StreamApp\StreamApp\obj\Debug\StreamApp.pdb
