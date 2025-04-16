@@ -50,3 +50,14 @@ Ensures encapsulation of subscription logic
 🧠 Scalable architecture using design patterns
 
 🎛️ Easy integration of future features like parental controls or content recommendations
+
+### UML Diagrams
+
+#### Strategic Pattern
+
+![Picture14](https://github.com/user-attachments/assets/600862d8-e5ed-442e-88c0-7e9325c32a78)
+
+#### Factory Pattern
+
+![Picture15](https://github.com/user-attachments/assets/3b33f5af-bd1d-4411-8cd2-2903f8e2a488)
+
